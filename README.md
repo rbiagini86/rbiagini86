@@ -1,6 +1,6 @@
 Rodrigo Biagini
 
-Mergulhador, motociclista, viajante, e entusiasta / estudante de programação.
+Mergulhador, motociclista, viajante, assessor de investimentos e agora estudante de programação.
 Fazendo um projeto aqui (...). 
 
 <!--
