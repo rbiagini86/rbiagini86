@@ -1,5 +1,8 @@
 Rodrigo Biagini
 
+Mergulhador, motociclista, viajante, e entusiasta / estudante de programação.
+Fazendo um projeto aqui (...). 
+
 <!--
 **rbiagini86/rbiagini86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
